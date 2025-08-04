@@ -29,10 +29,10 @@ Cada pasta contém os notebooks, scripts Python e eventuais anotações compleme
 
 ## ✅ Progresso
 
-| Capítulo | Título                                      | Status     |
-|----------|---------------------------------------------|------------|
-| 1        | O Caminho para o ML                         | ✅ Concluído |
-| 2        | Um Projeto de ML de A a Z                   | ⏳ Em andamento |
+| Capítulo | Título                                                               | Status     |
+|----------|----------------------------------------------------------------------|------------|
+| 1        | O Cenário do Aprendizado de Máquina                                  | ✅ Concluído |
+| 2        | Projeto de Aprendizado de Máquina de Ponta a Ponta                   | ⏳ Em andamento |
 
 ## 💡 Objetivo
 
