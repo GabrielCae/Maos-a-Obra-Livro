@@ -41,3 +41,33 @@ Meu principal objetivo com este repositório é:
 - Consolidar os conceitos aprendidos.
 - Criar um material de referência pessoal.
 - Compartilhar com outras pessoas que também estejam estudando o livro.
+## 🚀 Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/GabrielCae/Maos-a-Obra-Livro.git
+   cd Maos-a-Obra-Livro
+   Crie um ambiente virtual (opcional, mas recomendado):
+   ```
+  
+2. Crie um ambiente virtual (opcional, mas recomendado):
+  ```bash
+  python -m venv venv
+  source venv/bin/activate  # Linux/Mac
+  venv\Scripts\activate     # Windows
+  ```
+
+📌 Requisitos
+
+    Python 3.8+
+
+    Jupyter Notebook ou VS Code
+
+    Bibliotecas: scikit-learn, tensorflow, keras, matplotlib, pandas, numpy, etc.
+
+✍️ Autor
+Feito com dedicação por Gabriel Caetano 
+
+📖 Licença
+
+Este repositório é apenas para fins educacionais. Os direitos do conteúdo original pertencem ao autor Aurélien Géron e à editora responsável.
